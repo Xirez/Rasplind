@@ -1,4 +1,4 @@
-# Rasplind 100DaysOfCode Challenge
+# Rasplind #100DaysOfCode Challenge
 
 My journey through these one hundred days will be split into three parts;
 ### 1. Learning stage. 
@@ -17,19 +17,23 @@ So with that in mind, I want to keep this as secure I can to protect my apps fro
 ### 3. The final step, reaching the end goal. 
 Using my skeleton from step 2, I want to start building a browser game.
 I decided to go for a browser game as I felt I learned A LOT by building one in PHP. 
-And if I can get to the same level of understanding JS, React and Node as I did understanding PHP by my PHP project, I will be a very happy man.
+And if I can get to the same level of understanding JS, React and Node as I did understanding PHP by my PHP project, I will be a very happy man. :tada:
 
 
 You can follow my progress as I move along this challenge on my twitter:
 https://twitter.com/RobinAsplind
 
 Or have a look here if this interests you, I will try to update GitHub daily.
-Day 3:
+>Day 4:
+>Started a codealong course on Udemy to help me learn stuff right from start.
+>Rushed through the first few sections of basic JS and React components, props and state.
+
+>Day 3:
 >Continued on the path of learning React, built a few very basic frontend apps following some tutorials.
 
-Day 2:
+>Day 2:
 >As I knew since day two that I was not ready to work on something "large" yet, I decided to just take my time learning React from scratch.
 >Spent most of the day following tutorials and learning about React props and components, playground level.
 
-Day 1:
+>Day 1:
 >Started off doing a lot of basic JS practice and example projects. Just wanted to make sure I was ready to jump into React and NodeJS.
