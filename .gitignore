@@ -3,4 +3,4 @@ LearningReact/react-complete-guide/*
 #Excluded assignments
 !LearningReact/base-syntax-assignment/*
 LearningReact/base-syntax-assignment/node_modules/
-LearningReact/base-syntax-assignment/node_modules/package-lock.json
+LearningReact/base-syntax-assignment/package-lock.json
