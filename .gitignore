@@ -1,2 +1,3 @@
-/LearningReact*
-!/LearningReact/base-syntax-assignment
+LearningReact*
+!LearningReact/base-syntax-assignment/
+LearningReact/base-syntax-assignment/node_modules/
