@@ -1,3 +1,5 @@
-LearningReact*
-!LearningReact/base-syntax-assignment/
+LearningReact/react-complete-guide/*
+
+#Excludeed assignments
+!LearningReact/base-syntax-assignment/*
 LearningReact/base-syntax-assignment/node_modules/
