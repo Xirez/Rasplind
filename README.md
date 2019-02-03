@@ -24,6 +24,12 @@ You can follow my progress as I move along this challenge on my twitter:
 https://twitter.com/RobinAsplind
 
 Or have a look here if this interests you, I will try to update GitHub daily.
+>Day 6:
+>Spent learning about styling and debugging React components.
+
+>Day 5:
+>Completed chapter and assignment about lists and conditionals.
+
 >Day 4:
 >Started a codealong course on Udemy to help me learn stuff right from start.
 >Rushed through the first few sections of basic JS and React components, props and state.
