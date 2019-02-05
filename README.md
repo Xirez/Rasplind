@@ -24,6 +24,12 @@ You can follow my progress as I move along this challenge on my twitter:
 https://twitter.com/RobinAsplind
 
 Or have a look here if this interests you, I will try to update GitHub daily.
+>Day 8:
+>Continuing learning about more complex parts about React. Higher order components, lifecyckles, prop types, ref and different ref types.. Phew!
+
+>Day 7:
+>Deeper dive into more advanced React components and React internals.
+
 >Day 6:
 >Spent learning about styling and debugging React components.
 
