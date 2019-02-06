@@ -24,6 +24,9 @@ You can follow my progress as I move along this challenge on my twitter:
 https://twitter.com/RobinAsplind
 
 Or have a look here if this interests you, I will try to update GitHub daily.
+>Day 9:
+>Started work on a more "realistic" application. Realistic in this case meening that it looks good(as good i can make it without spending ages) but also working after best practice and making it run smooth.
+
 >Day 8:
 >Continuing learning about more complex parts about React. Higher order components, lifecyckles, prop types, ref and different ref types.. Phew!
 
