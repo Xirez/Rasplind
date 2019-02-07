@@ -24,6 +24,10 @@ You can follow my progress as I move along this challenge on my twitter:
 https://twitter.com/RobinAsplind
 
 Or have a look here if this interests you, I will try to update GitHub daily.
+>Day 10:
+>Started this day with studies in school, having brunch and watching a crash course on Node.js. Spending about 3h on a school assignement and heading back home at lunchtime.
+>Once back home, I'll continue work on my React app, and finish that off. Then eighter look on what i might have left to learn in React or start learning Node.
+
 >Day 9:
 >Started work on a more "realistic" application. Realistic in this case meening that it looks good(as good i can make it without spending ages) but also working after best practice and making it run smooth.
 
