@@ -24,6 +24,10 @@ You can follow my progress as I move along this challenge on my twitter:
 https://twitter.com/RobinAsplind
 
 Or have a look here if this interests you, I will try to update GitHub daily.
+>Day 13:
+>Continued playing around with Node, starting to really like it.
+>Might spend tomorrow working on my discord bot or building an API.
+
 >Day 12:
 >Busy day, so sadly not much more then 2h of code.. Wrote a node console app that listed some different PC specs.
 
