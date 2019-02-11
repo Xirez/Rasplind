@@ -1,0 +1,21 @@
+{
+  "name": "resthub",
+  "version": "1.0.0",
+  "description": "RESTful API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "restful",
+    "json"
+  ],
+  "author": "Rasplind",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.11"
+  }
+}

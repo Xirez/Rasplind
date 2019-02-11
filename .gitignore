@@ -1,4 +1,6 @@
 LearningReact/react-complete-guide/*
+LearningNode/resthub/node_modules
+LearningNode/raspflix/node_modules
 
 #Excluded assignments
 !LearningReact/base-syntax-assignment/*
