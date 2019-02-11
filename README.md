@@ -24,6 +24,9 @@ You can follow my progress as I move along this challenge on my twitter:
 https://twitter.com/RobinAsplind
 
 Or have a look here if this interests you, I will try to update GitHub daily.
+>Day 14:
+>Finally a full day of code after a busy weekend! Will be experimenting with NodeJS all day, will try to build myself an restful API.
+
 >Day 13:
 >Continued playing around with Node, starting to really like it.
 >Might spend tomorrow working on my discord bot or building an API.
