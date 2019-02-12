@@ -10,3 +10,9 @@ LearningReact/base-syntax-assignment/package-lock.json
 !LearningReact/lists-conditionals-assignment/*
 LearningReact/lists-conditionals-assignment/node_modules/
 LearningReact/lists-conditionals-assignment/package-lock.json
+
+#Dragonstack
+Dragonstack/backend/node_modules
+Dragonstack/backend/package-lock.json
+Dragonstack/frontend/node_modules
+Dragonstack/frontend/package-lock.json
