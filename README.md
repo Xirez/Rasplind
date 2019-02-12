@@ -24,6 +24,11 @@ You can follow my progress as I move along this challenge on my twitter:
 https://twitter.com/RobinAsplind
 
 Or have a look here if this interests you, I will try to update GitHub daily.
+>Day 15:
+>Played around with API's in NodeJS yesterday, was alot of fun! Now i'm taking a leap forward and starting step two above.
+>I will take it in a slow pase, but start working on a full authentication system, with userroles built into it.
+>There will be no styling or anything, just a "starting block" for futhure projects. Let's see how far i get..
+
 >Day 14:
 >Finally a full day of code after a busy weekend! Will be experimenting with NodeJS all day, will try to build myself an restful API.
 
