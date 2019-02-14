@@ -24,6 +24,14 @@ You can follow my progress as I move along this challenge on my twitter:
 https://twitter.com/RobinAsplind
 
 Or have a look here if this interests you, I will try to update GitHub daily.
+>Day 17:
+>Valentine's day, family time, exams tomorrow. I'll make sure to get atleast 2-3h of code in now tho.
+>Will keep working on my authentication system, today i will probably play around with passportjs, bcryptjs and joi.
+>Hope to get some insight in how to use them and how they work, and when i need them in my project have an easier time.
+
+>Day 16:
+>Started working on my authentication system, progress is slow tho. Got a few exams i'm working on aswell.
+
 >Day 15:
 >Played around with API's in NodeJS yesterday, was alot of fun! Now i'm taking a leap forward and starting step two above.
 >I will take it in a slow pase, but start working on a full authentication system, with userroles built into it.
