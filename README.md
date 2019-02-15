@@ -24,6 +24,9 @@ You can follow my progress as I move along this challenge on my twitter:
 https://twitter.com/RobinAsplind
 
 Or have a look here if this interests you, I will try to update GitHub daily.
+>Day 18:
+>Exam in school and preparing the weekend for my family, two days in a row with just a few hours of code, sadly.
+
 >Day 17:
 >Valentine's day, family time, exams tomorrow. I'll make sure to get atleast 2-3h of code in now tho.
 >Will keep working on my authentication system, today i will probably play around with passportjs, bcryptjs and joi.
