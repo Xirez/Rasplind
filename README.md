@@ -24,6 +24,10 @@ You can follow my progress as I move along this challenge on my twitter:
 https://twitter.com/RobinAsplind
 
 Or have a look here if this interests you, I will try to update GitHub daily.
+>Day 19:
+>B-party for my son, dinner is done, and i can relax with a whiskey and some code all evening!
+>Will be working on the auth system tonight, exited to start putting pices together.
+
 >Day 18:
 >Exam in school and preparing the weekend for my family, two days in a row with just a few hours of code, sadly.
 
