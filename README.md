@@ -1,5 +1,4 @@
 # Rasplind #100DaysOfCode Challenge
-Erik
 
 My journey through these one hundred days will be split into three parts;
 ### 1. Learning stage. 
